@@ -1,0 +1,1069 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 130,
+      "symbol": "Message.pack()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 170,
+      "symbol": "Message.init(unpackTCP:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 182,
+      "symbol": "Message.init(unpack:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 232,
+      "symbol": "Record.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 252,
+      "symbol": "HostRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 284,
+      "symbol": "ServiceRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 329,
+      "symbol": "TextRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 347,
+      "symbol": "PointerRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Bytes.swift",
+      "line": 366,
+      "symbol": "AliasRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": null,
+      "symbol": "IP",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": null,
+      "symbol": "IPv4",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": null,
+      "symbol": "IPv4",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": null,
+      "symbol": "IPv6",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 12,
+      "symbol": "IP",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 13,
+      "symbol": "IP.init(networkBytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 14,
+      "symbol": "IP.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 15,
+      "symbol": "IP.presentation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 22,
+      "symbol": "IP.debugDescription",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 27,
+      "symbol": "createIP(networkBytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 35,
+      "symbol": "IPv4",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 39,
+      "symbol": "IPv4.init(address:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 43,
+      "symbol": "IPv4.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 64,
+      "symbol": "IPv4.presentation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 97,
+      "symbol": "IPv6",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 98,
+      "symbol": "IPv6.address",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 100,
+      "symbol": "IPv6.init(address:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 104,
+      "symbol": "IPv6.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 112,
+      "symbol": "IPv6.init(networkBytes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/IP.swift",
+      "line": 121,
+      "symbol": "IPv6.presentation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "AliasRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "HostRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "HostRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "Message",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "Message",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "PointerRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "PointerRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "Record",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "ResourceRecordType",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "ServiceRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "ServiceRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": null,
+      "symbol": "TextRecord",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 3,
+      "symbol": "MessageType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 4,
+      "symbol": "MessageType.query",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 5,
+      "symbol": "MessageType.response",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 8,
+      "symbol": "Message",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 9,
+      "symbol": "Message.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 10,
+      "symbol": "Message.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 11,
+      "symbol": "Message.operationCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 12,
+      "symbol": "Message.authoritativeAnswer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 13,
+      "symbol": "Message.truncation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 14,
+      "symbol": "Message.recursionDesired",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 15,
+      "symbol": "Message.recursionAvailable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 16,
+      "symbol": "Message.returnCode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 18,
+      "symbol": "Message.questions",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 19,
+      "symbol": "Message.answers",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 20,
+      "symbol": "Message.authorities",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 21,
+      "symbol": "Message.additional",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 23,
+      "symbol": "Message.init(id:type:operationCode:authoritativeAnswer:truncation:recursionDesired:recursionAvailable:returnCode:questions:answers:authorities:additional:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 63,
+      "symbol": "OperationCode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 64,
+      "symbol": "OperationCode.query",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 65,
+      "symbol": "OperationCode.inverseQuery",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 66,
+      "symbol": "OperationCode.statusRequest",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 67,
+      "symbol": "OperationCode.notify",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 68,
+      "symbol": "OperationCode.update",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 71,
+      "symbol": "ReturnCode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 72,
+      "symbol": "ReturnCode.noError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 73,
+      "symbol": "ReturnCode.formatError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 74,
+      "symbol": "ReturnCode.serverFailure",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 75,
+      "symbol": "ReturnCode.nonExistentDomain",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 76,
+      "symbol": "ReturnCode.notImplemented",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 77,
+      "symbol": "ReturnCode.queryRefused",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 78,
+      "symbol": "ReturnCode.nameExistsWhenItShouldNot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 79,
+      "symbol": "ReturnCode.rrSetExistsWhenItShouldNot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 80,
+      "symbol": "ReturnCode.rrSetThatShouldExistDoestNot",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 81,
+      "symbol": "ReturnCode.serverNotAuthoritativeForZone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 82,
+      "symbol": "ReturnCode.nameNotContainedInZone",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 85,
+      "symbol": "InternetClass",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 86,
+      "symbol": "InternetClass.internet",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 87,
+      "symbol": "InternetClass.chaos",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 88,
+      "symbol": "InternetClass.hesiod",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 89,
+      "symbol": "InternetClass.none",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 90,
+      "symbol": "InternetClass.any",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 93,
+      "symbol": "Question",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 94,
+      "symbol": "Question.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 95,
+      "symbol": "Question.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 96,
+      "symbol": "Question.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 97,
+      "symbol": "Question.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 99,
+      "symbol": "Question.init(name:type:unique:internetClass:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 121,
+      "symbol": "ResourceRecordType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 122,
+      "symbol": "ResourceRecordType.host",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 123,
+      "symbol": "ResourceRecordType.nameServer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 124,
+      "symbol": "ResourceRecordType.alias",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 125,
+      "symbol": "ResourceRecordType.startOfAuthority",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 126,
+      "symbol": "ResourceRecordType.pointer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 127,
+      "symbol": "ResourceRecordType.mailExchange",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 128,
+      "symbol": "ResourceRecordType.text",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 129,
+      "symbol": "ResourceRecordType.host6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 130,
+      "symbol": "ResourceRecordType.service",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 131,
+      "symbol": "ResourceRecordType.incrementalZoneTransfer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 132,
+      "symbol": "ResourceRecordType.standardZoneTransfer",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 133,
+      "symbol": "ResourceRecordType.all",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 156,
+      "symbol": "ResourceRecord",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 157,
+      "symbol": "ResourceRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 158,
+      "symbol": "ResourceRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 159,
+      "symbol": "ResourceRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 160,
+      "symbol": "ResourceRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 162,
+      "symbol": "ResourceRecord.pack(onto:labels:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 166,
+      "symbol": "Record",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 167,
+      "symbol": "Record.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 168,
+      "symbol": "Record.type",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 169,
+      "symbol": "Record.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 170,
+      "symbol": "Record.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 171,
+      "symbol": "Record.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 174,
+      "symbol": "Record.init(name:type:internetClass:unique:ttl:data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 185,
+      "symbol": "HostRecord",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 186,
+      "symbol": "HostRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 187,
+      "symbol": "HostRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 188,
+      "symbol": "HostRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 189,
+      "symbol": "HostRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 190,
+      "symbol": "HostRecord.ip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 192,
+      "symbol": "HostRecord.init(name:unique:internetClass:ttl:ip:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 214,
+      "symbol": "ServiceRecord",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 215,
+      "symbol": "ServiceRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 216,
+      "symbol": "ServiceRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 217,
+      "symbol": "ServiceRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 218,
+      "symbol": "ServiceRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 219,
+      "symbol": "ServiceRecord.priority",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 220,
+      "symbol": "ServiceRecord.weight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 221,
+      "symbol": "ServiceRecord.port",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 222,
+      "symbol": "ServiceRecord.server",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 224,
+      "symbol": "ServiceRecord.init(name:unique:internetClass:ttl:priority:weight:port:server:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 248,
+      "symbol": "TextRecord",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 249,
+      "symbol": "TextRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 250,
+      "symbol": "TextRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 251,
+      "symbol": "TextRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 252,
+      "symbol": "TextRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 253,
+      "symbol": "TextRecord.attributes",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 254,
+      "symbol": "TextRecord.values",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 256,
+      "symbol": "TextRecord.init(name:unique:internetClass:ttl:attributes:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 267,
+      "symbol": "PointerRecord",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 268,
+      "symbol": "PointerRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 269,
+      "symbol": "PointerRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 270,
+      "symbol": "PointerRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 271,
+      "symbol": "PointerRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 272,
+      "symbol": "PointerRecord.destination",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 274,
+      "symbol": "PointerRecord.init(name:unique:internetClass:ttl:destination:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 295,
+      "symbol": "AliasRecord",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 296,
+      "symbol": "AliasRecord.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 297,
+      "symbol": "AliasRecord.unique",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 298,
+      "symbol": "AliasRecord.internetClass",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 299,
+      "symbol": "AliasRecord.ttl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS/Sources/DNS/Types.swift",
+      "line": 300,
+      "symbol": "AliasRecord.canonicalName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/bouke/Library/Mobile Documents/com~apple~CloudDocs/Developer/DNS"
+}

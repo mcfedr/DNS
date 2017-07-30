@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Message Struct Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset="utf-8">
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+    <script src="../js/lunr.min.js" defer></script>
+    <script src="../js/typeahead.jquery.js" defer></script>
+    <script src="../js/jazzy.search.js" defer></script>
+  </head>
+  <body>
+
+    <a name="//apple_ref/swift/Struct/Message" class="dashAnchor"></a>
+
+    <a title="Message Struct Reference"></a>
+
+    <header class="header">
+      <p class="header-col header-col--primary">
+        <a class="header-link" href="../index.html">
+          DNS Docs
+        </a>
+         (11% documented)
+      </p>
+    
+      <p class="header-col--secondary">
+        <form role="search" action="../search.json">
+          <input type="text" placeholder="Search documentation" data-typeahead>
+        </form>
+      </p>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="https://github.com/Bouke/DNS">
+            <img class="header-icon" src="../img/gh.png"/>
+            View on GitHub
+          </a>
+        </p>
+    
+        <p class="header-col header-col--secondary">
+          <a class="header-link" href="dash-feed://http%3A%2F%2Fboukehaarsma%2Enl%2FDNS%2FDNS%2Exml">
+            <img class="header-icon" src="../img/dash.png"/>
+            Install in Dash
+          </a>
+        </p>
+    </header>
+
+    <p class="breadcrumbs">
+      <a class="breadcrumb" href="../index.html">DNS Reference</a>
+      <img class="carat" src="../img/carat.png" />
+      Message Struct Reference
+    </p>
+
+    <div class="content-wrapper">
+      <nav class="navigation">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Enums.html">Enums</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/InternetClass.html">InternetClass</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/MessageType.html">MessageType</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/OperationCode.html">OperationCode</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/ResourceRecordType.html">ResourceRecordType</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Enums/ReturnCode.html">ReturnCode</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Functions.html">Functions</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Functions.html#/s:3DNS8createIPAA0C0_pSgx12networkBytes_ts10CollectionRzs5UInt8V7ElementRtzlF">createIP(networkBytes:)</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/IP.html">IP</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Protocols/ResourceRecord.html">ResourceRecord</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a class="nav-group-name-link" href="../Structs.html">Structs</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/AliasRecord.html">AliasRecord</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/HostRecord.html">HostRecord</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/IPv4.html">IPv4</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/IPv6.html">IPv6</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/Message.html">Message</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/PointerRecord.html">PointerRecord</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/Question.html">Question</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/Record.html">Record</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/ServiceRecord.html">ServiceRecord</a>
+              </li>
+              <li class="nav-group-task">
+                <a class="nav-group-task-link" href="../Structs/TextRecord.html">TextRecord</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+
+        <section class="section">
+          <div class="section-content">
+            <h1>Message</h1>
+            <p>Undocumented</p>
+
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-content">
+            <div class="task-group">
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV2ids6UInt16Vv"></a>
+                    <a name="//apple_ref/swift/Property/id" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV2ids6UInt16Vv">id</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV4typeAA0B4TypeOv"></a>
+                    <a name="//apple_ref/swift/Property/type" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV4typeAA0B4TypeOv">type</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV13operationCodeAA09OperationD0Ov"></a>
+                    <a name="//apple_ref/swift/Property/operationCode" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV13operationCodeAA09OperationD0Ov">operationCode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV19authoritativeAnswerSbv"></a>
+                    <a name="//apple_ref/swift/Property/authoritativeAnswer" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV19authoritativeAnswerSbv">authoritativeAnswer</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV10truncationSbv"></a>
+                    <a name="//apple_ref/swift/Property/truncation" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV10truncationSbv">truncation</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV16recursionDesiredSbv"></a>
+                    <a name="//apple_ref/swift/Property/recursionDesired" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV16recursionDesiredSbv">recursionDesired</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV18recursionAvailableSbv"></a>
+                    <a name="//apple_ref/swift/Property/recursionAvailable" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV18recursionAvailableSbv">recursionAvailable</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV10returnCodeAA06ReturnD0Ov"></a>
+                    <a name="//apple_ref/swift/Property/returnCode" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV10returnCodeAA06ReturnD0Ov">returnCode</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV9questionsSayAA8QuestionVGv"></a>
+                    <a name="//apple_ref/swift/Property/questions" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV9questionsSayAA8QuestionVGv">questions</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV7answersSayAA14ResourceRecord_pGv"></a>
+                    <a name="//apple_ref/swift/Property/answers" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV7answersSayAA14ResourceRecord_pGv">answers</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV11authoritiesSayAA14ResourceRecord_pGv"></a>
+                    <a name="//apple_ref/swift/Property/authorities" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV11authoritiesSayAA14ResourceRecord_pGv">authorities</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV10additionalSayAA14ResourceRecord_pGv"></a>
+                    <a name="//apple_ref/swift/Property/additional" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV10additionalSayAA14ResourceRecord_pGv">additional</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageVACs6UInt16V2id_AA0B4TypeO4typeAA13OperationCodeO09operationH0Sb19authoritativeAnswerSb10truncationSb16recursionDesiredSb0M9AvailableAA06ReturnH0O06returnH0SayAA8QuestionVG9questionsSayAA14ResourceRecord_pG7answersAY11authoritiesAY10additionaltcfc"></a>
+                    <a name="//apple_ref/swift/Method/init(id:type:operationCode:authoritativeAnswer:truncation:recursionDesired:recursionAvailable:returnCode:questions:answers:authorities:additional:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageVACs6UInt16V2id_AA0B4TypeO4typeAA13OperationCodeO09operationH0Sb19authoritativeAnswerSb10truncationSb16recursionDesiredSb0M9AvailableAA06ReturnH0O06returnH0SayAA8QuestionVG9questionsSayAA14ResourceRecord_pG7answersAY11authoritiesAY10additionaltcfc">init(id:type:operationCode:authoritativeAnswer:truncation:recursionDesired:recursionAvailable:returnCode:questions:answers:authorities:additional:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageV4pack10Foundation4DataVyKF"></a>
+                    <a name="//apple_ref/swift/Method/pack()" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageV4pack10Foundation4DataVyKF">pack()</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageVAC10Foundation4DataV9unpackTCP_tKcfc"></a>
+                    <a name="//apple_ref/swift/Method/init(unpackTCP:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageVAC10Foundation4DataV9unpackTCP_tKcfc">init(unpackTCP:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:3DNS7MessageVAC10Foundation4DataV6unpack_tKcfc"></a>
+                    <a name="//apple_ref/swift/Method/init(unpack:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:3DNS7MessageVAC10Foundation4DataV6unpack_tKcfc">init(unpack:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Undocumented</p>
+
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="task-group">
+              <ul class="item-container">
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:s28CustomDebugStringConvertibleP16debugDescriptionSSv"></a>
+                    <a name="//apple_ref/swift/Property/debugDescription" class="dashAnchor"></a>
+                    <a class="token" href="#/s:s28CustomDebugStringConvertibleP16debugDescriptionSSv">debugDescription</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="k">var</span> <span class="nv">debugDescription</span><span class="p">:</span> <span class="kt">String</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </article>
+    </div>
+    <section class="footer">
+      <p>&copy; 2017 <a class="link" href="https://twitter.com/BoukeHaarsma" target="_blank" rel="external">Bouke Haarsma</a>. All rights reserved. (Last updated: 2017-07-30)</p>
+      <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.7.4</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+    </section>
+  </body>
+</div>
+</html>
