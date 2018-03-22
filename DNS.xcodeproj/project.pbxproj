@@ -39,6 +39,7 @@
 		4808AFEE1F8529B6003A6428 /* DNS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DNS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4808AFF11F8529B6003A6428 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4808B0171F8B63C6003A6428 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		4895587A20638DD900E278CF /* DNS.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = DNS.podspec; sourceTree = "<group>"; };
 		"DNS::DNS::Product" /* DNS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = DNS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"DNS::DNSTests::Product" /* DNSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = DNSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		OBJ_10 /* Data+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+Extensions.swift"; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				OBJ_14 /* Tests */,
 				4808AFEF1F8529B6003A6428 /* DNS-ios */,
 				OBJ_19 /* Products */,
+				4895587A20638DD900E278CF /* DNS.podspec */,
 			);
 			sourceTree = "<group>";
 		};
